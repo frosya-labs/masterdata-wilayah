@@ -1,0 +1,537 @@
+﻿id,nama,induk_id,level
+010000,D.K.I. Jakarta,,1
+010100,Kab. Kepulauan Seribu,010000,2
+016000,Jakarta Pusat,010000,2
+016100,Jakarta Utara,010000,2
+016200,Jakarta Barat,010000,2
+016300,Jakarta Selatan,010000,2
+016400,Jakarta Timur,010000,2
+020000,Jawa Barat,,1
+020500,Kab. Bogor,020000,2
+020600,Kab. Sukabumi,020000,2
+020700,Kab. Cianjur,020000,2
+020800,Kab. Bandung,020000,2
+021000,Kab. Sumedang,020000,2
+021100,Kab. Garut,020000,2
+021200,Kab. Tasikmalaya,020000,2
+021400,Kab. Ciamis,020000,2
+021500,Kab. Kuningan,020000,2
+021600,Kab. Majalengka,020000,2
+021700,Kab. Cirebon,020000,2
+021800,Kab. Indramayu,020000,2
+021900,Kab. Subang,020000,2
+022000,Kab. Purwakarta,020000,2
+022100,Kab. Karawang,020000,2
+022200,Kab. Bekasi,020000,2
+022300,Kab. Bandung Barat,020000,2
+026000,Bandung,020000,2
+026100,Bogor,020000,2
+026200,Sukabumi,020000,2
+026300,Cirebon,020000,2
+026500,Bekasi,020000,2
+026600,Depok,020000,2
+026700,Cimahi,020000,2
+026800,Tasikmalaya,020000,2
+026900,Banjar,020000,2
+030000,Jawa Tengah,,1
+030100,Kab. Cilacap,030000,2
+030200,Kab. Banyumas,030000,2
+030300,Kab. Purbalingga,030000,2
+030400,Kab. Banjarnegara,030000,2
+030500,Kab. Kebumen,030000,2
+030600,Kab. Purworejo,030000,2
+030700,Kab. Wonosobo,030000,2
+030800,Kab. Magelang,030000,2
+030900,Kab. Boyolali,030000,2
+031000,Kab. Klaten,030000,2
+031100,Kab. Sukoharjo,030000,2
+031200,Kab. Wonogiri,030000,2
+031300,Kab. Karanganyar,030000,2
+031400,Kab. Sragen,030000,2
+031500,Kab. Grobogan,030000,2
+031600,Kab. Blora,030000,2
+031700,Kab. Rembang,030000,2
+031800,Kab. Pati,030000,2
+031900,Kab. Kudus,030000,2
+032000,Kab. Jepara,030000,2
+032100,Kab. Demak,030000,2
+032200,Kab. Semarang,030000,2
+032300,Kab. Temanggung,030000,2
+032400,Kab. Kendal,030000,2
+032500,Kab. Batang,030000,2
+032600,Kab. Pekalongan,030000,2
+032700,Kab. Pemalang,030000,2
+032800,Kab. Tegal,030000,2
+032900,Kab. Brebes,030000,2
+036000,Magelang,030000,2
+036100,Surakarta,030000,2
+036200,Salatiga,030000,2
+036300,Semarang,030000,2
+036400,Pekalongan,030000,2
+036500,Tegal,030000,2
+040000,D.I. Yogyakarta,,1
+040100,Kab. Bantul,040000,2
+040200,Kab. Sleman,040000,2
+040300,Kab. Gunung Kidul,040000,2
+040400,Kab. Kulon Progo,040000,2
+046000,Yogyakarta,040000,2
+050000,Jawa Timur,,1
+050100,Kab. Gresik,050000,2
+050200,Kab. Sidoarjo,050000,2
+050300,Kab. Mojokerto,050000,2
+050400,Kab. Jombang,050000,2
+050500,Kab. Bojonegoro,050000,2
+050600,Kab. Tuban,050000,2
+050700,Kab. Lamongan,050000,2
+050800,Kab. Madiun,050000,2
+050900,Kab. Ngawi,050000,2
+051000,Kab. Magetan,050000,2
+051100,Kab. Ponorogo,050000,2
+051200,Kab. Pacitan,050000,2
+051300,Kab. Kediri,050000,2
+051400,Kab. Nganjuk,050000,2
+051500,Kab. Blitar,050000,2
+051600,Kab. Tulungagung,050000,2
+051700,Kab. Trenggalek,050000,2
+051800,Kab. Malang,050000,2
+051900,Kab. Pasuruan,050000,2
+052000,Kab. Probolinggo,050000,2
+052100,Kab. Lumajang,050000,2
+052200,Kab. Bondowoso,050000,2
+052300,Kab. Situbondo,050000,2
+052400,Kab. Jember,050000,2
+052500,Kab. Banyuwangi,050000,2
+052600,Kab. Pamekasan,050000,2
+052700,Kab. Sampang,050000,2
+052800,Kab. Sumenep,050000,2
+052900,Kab. Bangkalan,050000,2
+056000,Surabaya,050000,2
+056100,Malang,050000,2
+056200,Madiun,050000,2
+056300,Kediri,050000,2
+056400,Mojokerto,050000,2
+056500,Blitar,050000,2
+056600,Pasuruan,050000,2
+056700,Probolinggo,050000,2
+056800,Batu,050000,2
+060000,Aceh,,1
+060100,Kab. Aceh Besar,060000,2
+060200,Kab. Pidie,060000,2
+060300,Kab. Aceh Utara,060000,2
+060400,Kab. Aceh Timur,060000,2
+060500,Kab. Aceh Tengah,060000,2
+060600,Kab. Aceh Barat,060000,2
+060700,Kab. Aceh Selatan,060000,2
+060800,Kab. Aceh Tenggara,060000,2
+061100,Kab. Simeulue,060000,2
+061200,Kab. Bireuen,060000,2
+061300,Kab. Aceh Singkil,060000,2
+061400,Kab. Aceh Tamiang,060000,2
+061500,Kab. Nagan Raya,060000,2
+061600,Kab. Aceh Jaya,060000,2
+061700,Kab. Aceh Barat Daya,060000,2
+061800,Kab. Gayo Lues,060000,2
+061900,Kab. Bener Meriah,060000,2
+062000,Kab. Pidie Jaya,060000,2
+066000,Sabang,060000,2
+066100,Banda Aceh,060000,2
+066200,Lhokseumawe,060000,2
+066300,Langsa,060000,2
+066400,Kab. Sabussalam,060000,2
+070000,Sumatera Utara,,1
+070100,Kab. Deli Serdang,070000,2
+070200,Kab. Langkat,070000,2
+070300,Kab. Karo,070000,2
+070400,Kab. Simalungun,070000,2
+070500,Kab. Dairi,070000,2
+070600,Kab. Asahan,070000,2
+070700,Kab. Labuhan Batu,070000,2
+070800,Kab. Tapanuli Utara,070000,2
+070900,Kab. Tapanuli Tengah,070000,2
+071000,Kab. Tapanuli Selatan,070000,2
+071100,Kab. Nias,070000,2
+071500,Kab. Mandailing Natal,070000,2
+071600,Kab. Toba Samosir,070000,2
+071700,Kab. Nias Selatan,070000,2
+071800,Kab. Pak pak Bharat,070000,2
+071900,Kab. Humbang Hasudutan,070000,2
+072000,Kab. Samosir,070000,2
+072100,Kab. Serdang Bedagai,070000,2
+072200,Kab. Batubara,070000,2
+072300,Kab. Padang Lawas utara,070000,2
+072400,Kab. Padang Lawas,070000,2
+072500,Kab. Labuhan Batu Utara,070000,2
+072600,Kab. Labuhan Batu Selatan,070000,2
+072700,Kab. Nias Barat,070000,2
+072800,Kab. Nias Utara,070000,2
+076000,Medan,070000,2
+076100,Binjai,070000,2
+076200,Tebing Tinggi,070000,2
+076300,Pematang Siantar,070000,2
+076400,Tanjung Balai,070000,2
+076500,Sibolga,070000,2
+076600,Padang Sidempuan,070000,2
+076700,Gunung Sitoli,070000,2
+080000,Sumatera Barat,,1
+080100,Kab. Agam,080000,2
+080200,Kab. Pasaman,080000,2
+080300,Kab. Lima Puluh Koto,080000,2
+080400,Kab. Solok,080000,2
+080500,Kab. Padang Pariaman,080000,2
+080600,Kab. Pesisir Selatan,080000,2
+080700,Kab. Tanah Datar,080000,2
+080800,Kab. Sawahlunto/ Sijunjung,080000,2
+081000,Kab. Kepulauan Mentawai,080000,2
+081100,Kab. Solok Selatan,080000,2
+081200,Kab. Dharmas Raya,080000,2
+081300,Kab. Pasaman Barat,080000,2
+086000,Bukittinggi,080000,2
+086100,Padang,080000,2
+086200,Padang Panjang,080000,2
+086300,Sawah Lunto,080000,2
+086400,Solok,080000,2
+086500,Payakumbuh,080000,2
+086600,Pariaman,080000,2
+090000,Riau,,1
+090100,Kab. Kampar,090000,2
+090200,Kab. Bengkalis,090000,2
+090400,Kab. Indragiri Hulu,090000,2
+090500,Kab. Indragiri Hilir,090000,2
+090800,Kab. Pelalawan,090000,2
+090900,Kab. Rokan Hilir,090000,2
+091000,Kab. Siak,090000,2
+091100,Kab. Kuantan Singingi,090000,2
+091400,Kab. Rokan Hulu,090000,2
+091500,Kab. Kepulauan Meranti,090000,2
+096000,Pekanbaru,090000,2
+096200,Dumai,090000,2
+100000,Jambi,,1
+100100,Kab. Batang Hari,100000,2
+100200,Kab. Bungo,100000,2
+100300,Kab. Sarolangun,100000,2
+100400,Kab. Tanjung Jabung Barat,100000,2
+100500,Kab. Kerinci,100000,2
+100600,Kab. Tebo,100000,2
+100700,Kab. Muaro Jambi,100000,2
+100800,Kab. Tanjung Jabung Timur,100000,2
+100900,Kab. Merangin,100000,2
+106000,Jambi,100000,2
+106100,Kab. Sungai Penuh,100000,2
+110000,Sumatera Selatan,,1
+110100,Kab. Musi Banyu Asin,110000,2
+110200,Kab. Ogan Komering Ilir,110000,2
+110300,Kab. Ogan Komering Ulu,110000,2
+110400,Kab. Muara Enim,110000,2
+110500,Kab. Lahat,110000,2
+110600,Kab. Musi Rawas,110000,2
+110700,Kab. Banyuasin,110000,2
+110800,Kab. Ogan Komering Ulu Timur,110000,2
+110900,Kab. Ogan Komering Ulu Selatan,110000,2
+111000,Kab. Ogan Ilir,110000,2
+111100,Kab. Empat Lawang,110000,2
+116000,Palembang,110000,2
+116100,Prabumulih,110000,2
+116200,Lubuk Linggau,110000,2
+116300,Pagar Alam,110000,2
+120000,Lampung,,1
+120100,Kab. Lampung Selatan,120000,2
+120200,Kab. Lampung Tengah,120000,2
+120300,Kab. Lampung Utara,120000,2
+120400,Kab. Lampung Barat,120000,2
+120500,Kab. Tulang Bawang,120000,2
+120600,Kab. Tenggamus,120000,2
+120700,Kab. Lampung Timur,120000,2
+120800,Kab. Way Kanan,120000,2
+120900,Kab. Pasawaran,120000,2
+121000,Kab. Tulang Bawang Barat,120000,2
+121100,Kab. Mesuji,120000,2
+121200,Kab. Pringsewu,120000,2
+126000,Bandar Lampung,120000,2
+126100,Metro,120000,2
+130000,Kalimantan Barat,,1
+130100,Kab. Sambas,130000,2
+130200,Kab. Pontianak,130000,2
+130300,Kab. Sanggau,130000,2
+130400,Kab. Sintang,130000,2
+130500,Kab. Kapuas Hulu,130000,2
+130600,Kab. Ketapang,130000,2
+130800,Kab. Bengkayang,130000,2
+130900,Kab. Landak,130000,2
+131000,Kab. Sekadau,130000,2
+131100,Kab. Melawi,130000,2
+131200,Kab. Kayong Utara,130000,2
+131300,Kab. Kuburaya,130000,2
+136000,Pontianak,130000,2
+136100,Singkawang,130000,2
+140000,Kalimantan Tengah,,1
+140100,Kab. Kapuas,140000,2
+140200,Kab. Barito Selatan,140000,2
+140300,Kab. Barito Utara,140000,2
+140400,Kab. Kotawaringin Timur,140000,2
+140500,Kab. Kotawaringin Barat,140000,2
+140600,Kab. Katingan,140000,2
+140700,Kab. Seruyan,140000,2
+140800,Kab. Sukamara,140000,2
+140900,Kab. Lamandau,140000,2
+141000,Kab. Gunung Mas,140000,2
+141100,Kab. Pulang Pisau,140000,2
+141200,Kab. Murung Raya,140000,2
+141300,Kab. Barito Timur,140000,2
+146000,Palangka Raya,140000,2
+150000,Kalimantan Selatan,,1
+150100,Kab. Banjar,150000,2
+150200,Kab. Tanah Laut,150000,2
+150300,Kab. Barito Kuala,150000,2
+150400,Kab. Tapin,150000,2
+150500,Kab. Hulu Sungai Selatan,150000,2
+150600,Kab. Hulu Sungai Tengah,150000,2
+150700,Kab. Hulu Sungai Utara,150000,2
+150800,Kab. Tabalong,150000,2
+150900,Kab. Kota Baru,150000,2
+151000,Kab. Balangan,150000,2
+151100,Kab. Tanah Bumbu,150000,2
+156000,Banjarmasin,150000,2
+156100,Banjarbaru,150000,2
+160000,Kalimantan Timur,,1
+160100,Kab. Pasir,160000,2
+160200,Kab. Kutai Kartanegara,160000,2
+160300,Kab. Berau,160000,2
+160400,Kab. Bulongan,160000,2
+160700,Kab. Malinau,340000,2
+160800,Kab. Nunukan,340000,2
+160900,Kab. Kutai Barat,160000,2
+161000,Kab. Kutai Timur,160000,2
+161100,Kab. Penajam Paser Utara,160000,2
+165400,Kab. Tanah Tidung,160000,2
+166000,Samarinda,160000,2
+166100,Balikpapan,160000,2
+166200,Tarakan,340000,2
+166300,Bontang,160000,2
+170000,Sulawesi Utara,,1
+170100,Kab. Bolaang Mongondaw,170000,2
+170200,Kab. Minahasa,170000,2
+170300,Kab. Kep. Sangihe,170000,2
+170400,Kab. Kepulauan Talaud,170000,2
+170500,Kab. Minahasa Selatan,170000,2
+170600,Kab. Minahasa Utara,170000,2
+170800,Kab. Bolaang Mongondow Utara,170000,2
+170900,Kab. Kepulauan Sitaro,170000,2
+171000,Kab. Minahasa Tenggara,170000,2
+171100,Kab. Bolaang Mongondaw Timur,170000,2
+171200,Kab. Bolaang Mongondaw Selatan,170000,2
+176000,Manado,170000,2
+176100,Bitung,170000,2
+176200,Tomohon,170000,2
+176300,Kotamobagu,170000,2
+180000,Sulawesi Tengah,,1
+180100,Kab. Banggai Kepulauan,180000,2
+180200,Kab. Donggala,180000,2
+180300,Kab. Parigi Mautong,180000,2
+180400,Kab. Banggai,180000,2
+180500,Kab. Buol,180000,2
+180600,Kab. Toli-Toli,180000,2
+180700,Kab. Marowali,180000,2
+180800,Kab. Poso,180000,2
+180900,Kab. Tojo Una-Una,180000,2
+181000,Kab. Sigi,180000,2
+186000,Palu,180000,2
+190000,Sulawesi Selatan,,1
+190100,Kab. Maros,190000,2
+190200,Kab. Pangkajene Kepulauan,190000,2
+190300,Kab. Gowa,190000,2
+190400,Kab. Takalar,190000,2
+190500,Kab. Jeneponto,190000,2
+190600,Kab. Barru,190000,2
+190700,Kab. Bone,190000,2
+190800,Kab. Wajo,190000,2
+190900,Kab. Soppeng,190000,2
+191000,Kab. Bantaeng,190000,2
+191100,Kab. Bulukumba,190000,2
+191200,Kab. Sinjai,190000,2
+191300,Kab. Selayar,190000,2
+191400,Kab. Pinrang,190000,2
+191500,Kab. Sidenreng Rappang,190000,2
+191600,Kab. Enrekang,190000,2
+191700,Kab. Luwu,190000,2
+191800,Kab. Tana Toraja,190000,2
+192400,Kab. Luwu Utara,190000,2
+192600,Kab. Luwu Timur,190000,2
+192700,Kab. Toraja Utara,190000,2
+196000,Makassar,190000,2
+196100,Pare-Pare,190000,2
+196200,Palopo,190000,2
+200000,Sulawesi Tenggara,,1
+200100,Kab. Konawe,200000,2
+200200,Kab. Muna,200000,2
+200300,Kab. Buton,200000,2
+200400,Kab. Kolaka,200000,2
+200500,Kab. Konawe Selatan,200000,2
+200600,Kab. Wakatobi,200000,2
+200700,Kab. Bombana,200000,2
+200800,Kab. Kolaka Utara,200000,2
+200900,Kab. Konawe Utara,200000,2
+201000,Kab. Buton Utara,200000,2
+206000,Kendari,200000,2
+206100,Baubau,200000,2
+210000,Maluku,,1
+210100,Kab. Maluku Tengah,210000,2
+210200,Kab. Maluku Tenggara,210000,2
+210300,Kab. Buru,210000,2
+210400,Kab. Maluku Tenggara Barat,210000,2
+210500,Kab. Seram Bagian Barat,210000,2
+210600,Kab. Seram Bagian Timur,210000,2
+210700,Kab. Kepulauan Aru,210000,2
+210800,Kab. Maluku Barat Daya,210000,2
+210900,Kab. Buru Selatan,210000,2
+216000,Ambon,210000,2
+216100,Tual,210000,2
+220000,Bali,,1
+220100,Kab. Buleleng,220000,2
+220200,Kab. Jembrana,220000,2
+220300,Kab. Tabanan,220000,2
+220400,Kab. Badung,220000,2
+220500,Kab. Gianyar,220000,2
+220600,Kab. Klungkung,220000,2
+220700,Kab. Bangli,220000,2
+220800,Kab. Karang Asem,220000,2
+226000,Denpasar,220000,2
+230000,Nusa Tenggara Barat,,1
+230100,Kab. Lombok Barat,230000,2
+230200,Kab. Lombok Tengah,230000,2
+230300,Kab. Lombok Timur,230000,2
+230400,Kab. Sumbawa,230000,2
+230500,Kab. Dompu,230000,2
+230600,Kab. Bima,230000,2
+230700,Kab. Sumbawa Barat,230000,2
+230800,Kab. Lombok Utara,230000,2
+236000,Mataram,230000,2
+236100,Bima,230000,2
+240000,Nusa Tenggara Timur,,1
+240100,Kab. Kupang,240000,2
+240300,Kab. Timor Tengah Selatan,240000,2
+240400,Kab. Timor Tengah Utara,240000,2
+240500,Kab. Belu,240000,2
+240600,Kab. Alor,240000,2
+240700,Kab. Flores Timur,240000,2
+240800,Kab. Sikka,240000,2
+240900,Kab. Ende,240000,2
+241000,Kab. Ngada,240000,2
+241100,Kab. Manggarai,240000,2
+241200,Kab. Sumba Timur,240000,2
+241300,Kab. Sumba Barat,240000,2
+241400,Kab. Lembata,240000,2
+241500,Kab. Rote-Ndao,240000,2
+241600,Kab. Manggarai Barat,240000,2
+241700,Kab. Nagakeo,240000,2
+241800,Kab. Sumba Tengah,240000,2
+241900,Kab. Sumba Barat Daya,240000,2
+242000,Kab. Manggarai Timur,240000,2
+242100,Kab. Sabu Raijua,240000,2
+246000,Kupang,240000,2
+250000,Papua,,1
+250100,Kab. Jayapura,250000,2
+250200,Kab. Biak Numfor,250000,2
+250300,Kab. Yapen Waropen,250000,2
+250700,Kab. Merauke,250000,2
+250800,Kab. Jayawijaya,250000,2
+250900,Kab. Nabire,250000,2
+251000,Kab. Paniai,250000,2
+251100,Kab. Puncak Jaya,250000,2
+251200,Kab. Mimika,250000,2
+251300,Kab. Boven Digoel,250000,2
+251400,Kab. Mappi,250000,2
+251500,Kab. Asmat,250000,2
+251600,Kab. Yahukimo,250000,2
+251700,Kab. Pegunungan Bintang,250000,2
+251800,Kab. Tolikara,250000,2
+251900,Kab. Sarmi,250000,2
+252000,Kab. Keerom,250000,2
+252600,Kab. Waropen,250000,2
+252700,Kab. Supiori,250000,2
+252800,Kab. Memberamo Raya,250000,2
+252900,Kab. Nduga,250000,2
+253000,Kab. Lanny Jaya,250000,2
+253100,Kab. Membramo Tengah,250000,2
+253200,Kab. Yalimo,250000,2
+253300,kab. Puncak,250000,2
+253400,Kab. Dogiyai,250000,2
+253500,Kab. Deiyai,250000,2
+253600,Kab. Intan Jaya,250000,2
+256000,Jayapura,250000,2
+260000,Bengkulu,,1
+260100,Kab. Bengkulu Utara,260000,2
+260200,Kab. Rejang Lebong,260000,2
+260300,Kab. Bengkulu Selatan,260000,2
+260400,Kab. Muko-muko,260000,2
+260500,Kab. Kepahiang,260000,2
+260600,Kab. Lebong,260000,2
+260700,Kab. Kaur,260000,2
+260800,Kab. Seluma,260000,2
+260900,Kab. Bengkulu Tengah,260000,2
+266000,Bengkulu,260000,2
+270000,Maluku Utara,,1
+270200,Kab. Halmahera Tengah,270000,2
+270300,Kab. Halmahera Barat,270000,2
+270400,Kab. Halmahera Utara,270000,2
+270500,Kab. Halmahera Selatan,270000,2
+270600,Kab. Halmahera Timur,270000,2
+270700,Kab. Kepulauan Sula,270000,2
+270800,Kab. Kepulauan Morotai,270000,2
+276000,Ternate,270000,2
+276100,Tidore Kepulauan,270000,2
+280000,Banten,,1
+280100,Kab. Pandeglang,280000,2
+280200,Kab. Lebak,280000,2
+280300,Kab. Tangerang,280000,2
+280400,Kab. Serang,280000,2
+286000,Cilegon,280000,2
+286100,Tangerang,280000,2
+286200,Serang,280000,2
+286300,Tangerang Selatan,280000,2
+290000,Bangka Belitung,,1
+290100,Kab. Bangka,290000,2
+290200,Kab. Belitung,290000,2
+290300,Kab. Bangka Tengah,290000,2
+290400,Kab. Bangka Barat,290000,2
+290500,Kab. Bangka Selatan,290000,2
+290600,Kab. Belitung Timur,290000,2
+296000,Pangkalpinang,290000,2
+300000,Gorontalo,,1
+300100,Kab. Boalemo,300000,2
+300200,Kab. Gorontalo,300000,2
+300300,Kab. Pohuwato,300000,2
+300400,Kab. Bone Bolango,300000,2
+300500,Kab. Gorontalo Utara,300000,2
+306000,Gorontalo,300000,2
+310000,Kepulauan Riau,,1
+310100,Kab. Bintan,310000,2
+310200,Kab. Karimun,310000,2
+310300,Kab. Natuna,310000,2
+310400,Kab. Lingga,310000,2
+310500,Kab. Kepulauan Anambas,310000,2
+316000,Batam,310000,2
+316100,Tanjungpinang,310000,2
+320000,Papua Barat,,1
+320100,Kab. Fak-Fak,320000,2
+320200,Kab. Kaimana,320000,2
+320300,Kab. Teluk Wondama,320000,2
+320400,Kab. Teluk Bintuni,320000,2
+320500,Kab. Manokwari,320000,2
+320600,Kab. Sorong Selatan,320000,2
+320700,Kab. Sorong,320000,2
+320800,Kab. Raja Ampat,320000,2
+320900,Kab. Tambrauw,320000,2
+321000,Kab. Maybrat,320000,2
+326000,Sorong,320000,2
+330000,Sulawesi Barat,,1
+330100,Kab. Mamuju,330000,2
+330200,Kab. Mamuju Utara,330000,2
+330300,Kab. Polewali Mamasa,330000,2
+330400,Kab. Mamasa,330000,2
+330500,Kab. Majene,330000,2
+340000,Kalimantan Utara,,1
+340100,Kab. Malinau,340000,2
+340200,Kab. Bulungan,340000,2
+340300,Kab. Tana Tidung,340000,2
+340500,Kab. Nunukan,340000,2
+346000,Tarakan,340000,2
